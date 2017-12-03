@@ -1,4 +1,4 @@
-# lens-exif-scripts
+# Lens EXIF data update scripts
 Apple scripts for Capture One Pro 11 for updating the lens data stored in the RAW image files.
 
 To be able to use these scripts, the `exiftool` needs to be installed:
